@@ -1,0 +1,9 @@
+name: crypto_project
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - pandas
+  - python
+  - conda-forge::scrapy
+prefix: /Users/alejandragarcia/anaconda3/envs/crypto_project
