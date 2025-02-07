@@ -5,6 +5,7 @@
 
 import scrapy
 
+# Objeto que contiene cada elemento elegido para formar el activo.
 
 class CryptoItem(scrapy.Item):
     name = scrapy.Field()
